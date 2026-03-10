@@ -225,6 +225,4 @@ Primeiro realize o **login**, copie o **token JWT** e utilize nas requisições 
 
 ---
 
-# Autor
-
 Projeto desenvolvido por **Vitória Thifane**.
